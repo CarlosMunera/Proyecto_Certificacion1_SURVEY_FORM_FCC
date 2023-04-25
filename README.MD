@@ -5,7 +5,7 @@ Construir un formulario de encuesta para recolectar los datos de los usuarios.
 
 ![Imagem diseño web](img/FormularioEncuesta.png)
 
-## Requerimientos:
+## Historias de Usuario:
 1. Debe tener un título de página en un elemento h1 con una identificación de título
 2. Debe tener una breve explicación en un elemento p con una identificación de descripción
 3. Debe tener un elemento de formulario con una identificación de formulario de encuesta
@@ -29,4 +29,4 @@ Construir un formulario de encuesta para recolectar los datos de los usuarios.
 
 ## Acerca del autor:
 * [LinkedIn](https://www.linkedin.com/in/carlos-munera-259969262 "Linkedin")
-* [freeCodeCamp](https://www.freecodecamp.org/fcc0dc40656-86b6-4bd7-a2b0-5ccd1ae5cc31 "FreeCodeCamp")
+* [FreeCodeCamp](https://www.freecodecamp.org/fcc0dc40656-86b6-4bd7-a2b0-5ccd1ae5cc31 "FreeCodeCamp")
