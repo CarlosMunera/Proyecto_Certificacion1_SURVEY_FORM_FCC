@@ -3,7 +3,7 @@
 ## Formulario de Encuesta
 Construir un formulario de encuesta para recolectar los datos de los usuarios.
 
-![Imagem diseño web](/img/FormularioEncuesta.png)
+![Imagem diseño web](/)
 
 ## Requerimientos:
 1. Debe tener un título de página en un elemento h1 con una identificación de título
@@ -24,9 +24,9 @@ Construir un formulario de encuesta para recolectar los datos de los usuarios.
 16. Dentro del elemento de formulario, se le presenta un botón con id de envío para enviar todas las entradas
 
 ## Tecnologías Utilizadas:
-* HTML5
-* CSS3
+*HTML5
+*CSS3
 
 ## Acerca del autor:
-* Perfil [LinkedIn](https://www.linkedin.com/in/carlos-munera-259969262 "Linkedin")
+*Perfil [LinkedIn](https://www.linkedin.com/in/carlos-munera-259969262 "Linkedin")
 *Perfil [freeCodeCamp](https://www.freecodecamp.org/fcc0dc40656-86b6-4bd7-a2b0-5ccd1ae5cc31 "FreeCodeCamp")
